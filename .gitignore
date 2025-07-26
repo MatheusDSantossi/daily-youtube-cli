@@ -1,0 +1,12 @@
+.venv
+.env
+__pycache__/
+
+constants/
+
+
+
+# Pyinstaller files
+**.spec
+build/
+dist/
